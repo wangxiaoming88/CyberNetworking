@@ -2,7 +2,7 @@
 //  previewCell.swift
 //  Senjin Rana
 //
-//  Created by Maxim Petrenko on 9/4/16.
+//  Created by Wang Xiaoming on 9/4/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 

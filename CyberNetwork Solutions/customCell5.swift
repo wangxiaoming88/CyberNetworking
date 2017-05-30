@@ -2,7 +2,7 @@
 //  customCell5.swift
 //  Senjin Rana
 //
-//  Created by Maxim Petrenko on 9/3/16.
+//  Created by Wang Xiaoming on 9/3/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 

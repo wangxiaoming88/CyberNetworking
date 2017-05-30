@@ -2,7 +2,7 @@
 //  PreviewViewController.swift
 //  Senjin Rana
 //
-//  Created by Anton Ivanov on 8/27/16.
+//  Created by Wang Xiaoming on 8/27/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 

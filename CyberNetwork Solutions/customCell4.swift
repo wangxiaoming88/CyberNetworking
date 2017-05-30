@@ -2,7 +2,7 @@
 //  customCell4.swift
 //  Senjin Rana
 //
-//  Created by Fakan Brandli on 8/27/16.
+//  Created by Wang Xiaoming on 8/27/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 

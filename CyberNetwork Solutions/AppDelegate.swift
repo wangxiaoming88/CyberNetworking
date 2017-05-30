@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CyberNetwork Solutions
 //
-//  Created by AHM. SAJID on 4/10/16.
+//  Created by Wang Xiaoming on 4/10/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 

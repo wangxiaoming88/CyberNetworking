@@ -2,7 +2,7 @@
 //  CustomCell2.swift
 //  CyberNetwork Solutions
 //
-//  Created by Fakan Brandli on 8/18/16.
+//  Created by Wang Xiaoming on 8/18/16.
 //  Copyright © 2016 Sabilopers. All rights reserved.
 //
 
