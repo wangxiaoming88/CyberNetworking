@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (3.4.1)
+  - DLRadioButton (1.4.9)
+  - GoogleAPIClient/Core (1.0.5):
+    - GTMSessionFetcher (~> 1.1)
+  - GoogleAPIClient/Drive (1.0.5):
+    - GoogleAPIClient/Core
+    - GTMSessionFetcher (~> 1.1)
+  - GTMOAuth2 (1.1.2):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.6):
+    - GTMSessionFetcher/Full (= 1.1.6)
+  - GTMSessionFetcher/Core (1.1.6)
+  - GTMSessionFetcher/Full (1.1.6):
+    - GTMSessionFetcher/Core (= 1.1.6)
+  - libxlsxwriter (0.3.9)
+  - SwiftyDropbox (3.0.0):
+    - Alamofire (~> 3.1)
+  - Toast-Swift (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - DLRadioButton (~> 1.4)
+  - GoogleAPIClient/Drive (~> 1.0.2)
+  - GTMOAuth2 (~> 1.1.0)
+  - libxlsxwriter (~> 0.3.1)
+  - SwiftyDropbox
+  - Toast-Swift (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  DLRadioButton: 7bb8a6e3768b572469ace553391ab4d2af6f9c19
+  GoogleAPIClient: 4a6b0b807de8b1115a2835180b25dd93dc60f1ea
+  GTMOAuth2: 1707e2f7fe3a6d7240223c23c473ba5a2d104474
+  GTMSessionFetcher: 6aacd0ab48ddf0c3633ab2642d792abfcad1b08a
+  libxlsxwriter: dd9787264859b590ad462e42ef56293474908dfe
+  SwiftyDropbox: e0d4aa3166082ec07ed942e94edb8c732b3376e4
+  Toast-Swift: 25c3d98db42dc70d9a77b5006ee000e0becb458e
+
+PODFILE CHECKSUM: babab8334e5d7ab249cf252fcc4100e934866461
+
+COCOAPODS: 1.0.1

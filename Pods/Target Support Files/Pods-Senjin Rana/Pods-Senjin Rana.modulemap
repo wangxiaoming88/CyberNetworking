@@ -1,0 +1,6 @@
+framework module Pods_Senjin_Rana {
+  umbrella header "Pods-Senjin Rana-umbrella.h"
+
+  export *
+  module * { export * }
+}
